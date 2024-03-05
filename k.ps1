@@ -1164,4 +1164,4 @@ Outputs a custom object containing the SamAccountName, ServicePrincipalName, and
     }
 }
 
-Invoke-Kerberoast
+Invoke-Kerberoast | ft
