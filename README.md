@@ -2,6 +2,7 @@
 - pe/rub.txt -- Rubeus.exe (encrypted)
 - pe/akg.txt -- Akagi64.exe
 - pe/sh.txt -- SharpHound.exe (encrypted)
+- pe/wmi.txt -- SharpWMI.exe (encrypted)
 
 Encrypt with:
 ```
